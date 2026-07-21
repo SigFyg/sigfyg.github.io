@@ -4,7 +4,7 @@ permalink: /reading/
 title: Reading
 description: lorem ipsum
 nav: true
-nav_order: 6
+nav_order: 5
 calendar: true
 ---
 
