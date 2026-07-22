@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /techandhumanity/
-title: Tech and Humanity
+title: Tech & Humanity
 description: 
 nav: true
 nav_order: 6

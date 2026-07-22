@@ -2,7 +2,7 @@
 layout: page
 permalink: /reading/
 title: Reading
-description: lorem ipsum
+description: 
 nav: true
 nav_order: 5
 calendar: true
