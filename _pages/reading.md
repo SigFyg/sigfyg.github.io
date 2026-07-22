@@ -25,7 +25,3 @@ Convergence, Adaptation, Constraint
 Brief and Biased History of Comparch
 C is not a low level language
 Heal thyself CPU
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
