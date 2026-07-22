@@ -5,12 +5,12 @@
   notes:
     - title: "Rank-Nullity"
       file: assets/pdf/lectures/Rank_Nullity_Theorem.pdf
-#     - title: "SVD for Square Matrices"
-#       file: assets/pdf/lectures/SVD_notes_Justin.pdf
-#     - title: "SVD proof part 1"
-#       file: assets/pdf/lectures/equivalent_eigenvalue_proof_for_SVD.pdf
-#     - title: "Convolutions"
-#       file: assets/pdf/lectures/Convolution_notes_Justin.pdf
+    - title: "SVD for Square Matrices"
+      file: assets/pdf/lectures/SVD_notes_Justin.pdf
+    - title: "SVD proof part 1"
+      file: assets/pdf/lectures/equivalent_eigenvalue_proof_for_SVD.pdf
+    - title: "Convolutions"
+      file: assets/pdf/lectures/Convolution_notes_Justin.pdf
 # - course: Probability
 #   notes:
 #     - title: "Integrals for Gaussian Info Theory"
