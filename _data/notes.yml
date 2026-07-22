@@ -15,19 +15,18 @@
   notes:
     - title: "Integrals For Gaussian Info Theory"
       file: assets/pdf/lectures/gaussian_entropies_p1.pdf
-
-#     - title: "The 1D Gaussian Process"
-#       file: assets/pdf/lectures/one_dimension_gaussian_process.pdf
-# - course: Calculus
-#     - title: "Deriving the HJB Equation"
-#       file: assets/pdf/lectures/HJB_Derivation.pdf
-#     - title: "Approximating Taylor Series with Binomial Theorem"
-#       file: assets/pdf/lectures/binomial_theorem_taylor_series.pdf
-#     - title: "Deriving Gamma Function from Taylor Series"
-#       file: assets/pdf/lectures/gamma_function_from_taylor.pdf
-#     - title: "Line-Volume Integrals Part 1"
-#       file: assets/pdf/lectures/line_integrals_Justin.pdf
-#     - title: "Line-Volume Integrals Part 2"
-#       file: assets/pdf/lectures/line_volume_integrals_p2.pdf
+    - title: "The 1D Gaussian Process"
+      file: assets/pdf/lectures/one_dimension_gaussian_process.pdf
+- course: Calculus
+    - title: "Deriving the HJB Equation"
+      file: assets/pdf/lectures/HJB_Derivation.pdf
+    - title: "Approximating Taylor Series with Binomial Theorem"
+      file: assets/pdf/lectures/binomial_theorem_taylor_series.pdf
+    - title: "Deriving Gamma Function from Taylor Series"
+      file: assets/pdf/lectures/gamma_function_from_taylor.pdf
+    - title: "Line-Volume Integrals Part 1"
+      file: assets/pdf/lectures/line_integrals_Justin.pdf
+    - title: "Line-Volume Integrals Part 2"
+      file: assets/pdf/lectures/line_volume_integrals_p2.pdf
 
 
