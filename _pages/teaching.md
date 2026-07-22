@@ -9,8 +9,7 @@ nav_order: 4
 
 Here is a collection of educational materials I've made. Hope you find something useful here!
 
-
-<h2>Lecture Notes</h2>
+<h2 style="margin-top: 2rem;">Lecture Notes</h2>
 
 I enjoy coming up with my own derivations that can add insight to fundamental topics. The following are handwritten lecture notes walking through these derivations based on what I happened to be curious about at the time.
 
@@ -23,8 +22,7 @@ I enjoy coming up with my own derivations that can add insight to fundamental to
 </ul>
 {% endfor %}
 
-
-<h2>YouTube</h2>
+<h2 style="margin-top: 2rem;">Videos</h2>
 
 Here's my <a href="https://www.youtube.com/@sigfyg8384" target="_blank">YouTube channel</a> where I cover various topics in engineering and research. Below are two featured videos:
 
