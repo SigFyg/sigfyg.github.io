@@ -8,20 +8,20 @@ nav_order: 5
 calendar: true
 ---
 
-In Search of a Better World
-Race After Technology
-Inner Gold
-Exhalations
+The following is a sample of readings that have made a mark on my intellectual journey. I hope you find something in this list that resonates.
 
-Chaos
-Richard Hamming
-Kolmogorov Complexity
-Evolving Brains
-Principles of Neural Information Theory
-Illustrated Theory of Numbers
-Annotated Turing
-Convergence, Adaptation, Constraint
-
-Brief and Biased History of Comparch
-C is not a low level language
-Heal thyself CPU
+{% for group in site.data.books %}
+<h3>{{ group.category }}</h3>
+<ul>
+  {% for e in group.entries %}
+  <li style="margin-bottom: 0.5rem;">
+    {% if e.type %}
+      <a href="{{ e.link }}" target="_blank"><strong>{{ e.title }}</strong></a>
+      <em>({{ e.type }})</em> — {{ e.author }}
+    {% else %}
+      <strong>{{ e.title }}</strong> — {{ e.author }}
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}

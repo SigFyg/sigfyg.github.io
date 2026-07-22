@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 
+<style>
+  h3 { font-size: 1.2rem; }
+</style>
+
 Here is a collection of educational materials I've made. Hope you find something useful here!
 
 <h2 style="margin-top: 2rem;">Lecture Notes</h2>

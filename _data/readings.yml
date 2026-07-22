@@ -1,0 +1,71 @@
+- category: Research
+  entries:
+    - title: "The Art of Doing Science and Engineering"
+      author: "Richard Hamming"
+
+- category: Math/Computer Science
+  entries:
+    - title: "Nonlinear Dynamics and Chaos"
+      author: "Steven Strogatz"
+    - title: "The Annotated Turing"
+      author: "Charles Petzold"
+    - title: "An Introduction to Kolmogorov Complexity and Its Applications"
+      author: "Ming Li and Paul Vitanyi"
+    - title: "Illustrated Theory of Numbers"
+      author: "Martin Weissman"
+    - title: "Causal Architecture, Complexity, and Self-Organization in Time Series and Cellular Automata"
+      author: "Cosma Shalizi"
+      type: paper
+      link: "https://bactra.org/thesis/"
+
+- category: Neuroscience and Biology
+  entries:
+    - title: "Evolving Brains"
+      author: "John Allman"
+    - title: "Principles of Neural Design"
+      author: "Peter Sterling and Simon Laughlin"
+    - title: "Principles of Neural Information Theory"
+      author: "James Stone"
+    - title: "Convergence, Adaptation, and Constraint"
+      author: "Jonathan Losos"
+      type: paper
+      link: "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1558-5646.2011.01289.x"
+
+- category: Computer Engineering
+  entries:
+    - title: "A Brief and Biased History of Computer Architecture"
+      author: "Cliff Young"
+      type: article
+      link: "https://www.sigarch.org/a-brief-and-biased-history-of-computer-architecture-part-1/"
+    - title: "C is Not a Low-Level Language"
+      author: "David Chisnall"
+      type: article
+      link: "https://queue.acm.org/detail.cfm?id=3212479"
+    - title: "CPU, Heal Thyself"
+      author: "Shidhartha Das and David Blaauw"
+      type: article
+      link: "https://spectrum.ieee.org/cpu-heal-thyself"
+
+- category: Philosophy of Mind/Computation
+  entries:
+    - title: "The Kekule Problem"
+      author: "Cormac McCarthy"
+      type: article
+      link: "https://nautil.us/the-kekul-problem-236574"
+    - title: "When Does a Physical System Compute?"
+      author: "Clare Horsman, et al."
+      type: paper
+      link: "https://royalsocietypublishing.org/rspa/article/470/2169/20140182/79750/When-does-a-physical-system-compute-When-does-a"
+
+- category: Other
+  entries:
+    - title: "In Search of a Better World"
+      author: "Payam Akhavan"
+    - title: "Autobiography of Malcolm X"
+      author: "Malcolm X and Alex Haley"
+    - title: "Race After Technology"
+      author: "Ruha Benjamin"
+    - title: "Inner Gold: Understanding Psychological Projection"
+      author: "Robert Johnson"
+    - title: "Exhalations"
+      author: "Ted Chiang"
