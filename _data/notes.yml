@@ -18,6 +18,7 @@
     - title: "The 1D Gaussian Process"
       file: assets/pdf/lectures/one_dimension_gaussian_process.pdf
 - course: Calculus
+  notes:
     - title: "Deriving the HJB Equation"
       file: assets/pdf/lectures/HJB_Derivation.pdf
     - title: "Approximating Taylor Series with Binomial Theorem"
