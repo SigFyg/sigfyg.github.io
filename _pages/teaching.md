@@ -8,10 +8,10 @@ nav_order: 4
 calendar: true
 ---
 
-Found {{ site.data.lecture_notes | size }} note(s).
+Found {{ site.data.notes | size }} note(s).
 
 <ul>
-{% for note in site.data.lecture_notes %}
+{% for note in site.data.notes %}
   <li><a href="{{ note.file | relative_url }}" target="_blank">{{ note.title }}</a></li>
 {% endfor %}
 </ul>
