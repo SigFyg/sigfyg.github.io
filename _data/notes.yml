@@ -1,10 +1,10 @@
 
-- title: "Test"
-  file: assets/pdf/lectures/Rank_Nullity_Theorem.pdf
-# - course: Linear Algebra
-#   notes:
-#     - title: "Rank-Nullity"
-#       file: assets/pdf/lectures/Rank_Nullity_Theorem.pdf
+# - title: "Test"
+#   file: assets/pdf/lectures/Rank_Nullity_Theorem.pdf
+- course: Linear Algebra
+  notes:
+    - title: "Rank-Nullity"
+      file: assets/pdf/lectures/Rank_Nullity_Theorem.pdf
 #     - title: "SVD for Square Matrices"
 #       file: assets/pdf/lectures/SVD_notes_Justin.pdf
 #     - title: "SVD proof part 1"

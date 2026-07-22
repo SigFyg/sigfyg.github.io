@@ -8,13 +8,7 @@ nav_order: 4
 calendar: true
 ---
 
-Found {{ site.data.notes | size }} note(s).
 
-<ul>
-{% for note in site.data.notes %}
-  <li><a href="{{ note.file | relative_url }}" target="_blank">{{ note.title }}</a></li>
-{% endfor %}
-</ul>
 <!-- This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
 
 {% for group in site.data.notes %}
