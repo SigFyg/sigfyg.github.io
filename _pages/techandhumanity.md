@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Tech&Humanity/
-title: Tech & Humanity
+permalink: /techandhumanity/
+title: Tech and Humanity
 description: 
 nav: true
 nav_order: 6

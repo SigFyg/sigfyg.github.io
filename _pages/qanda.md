@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /q&a/
-title: Q&A
+permalink: /qanda/
+title: Q and A
 description: 
 nav: true
 nav_order: 3
