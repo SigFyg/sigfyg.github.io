@@ -9,7 +9,7 @@ calendar: true
 ---
 
 
-<!-- This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
 
 {% for group in site.data.notes %}
 <h3>{{ group.course }}</h3>
@@ -18,4 +18,4 @@ calendar: true
   <li><a href="{{ n.file | relative_url }}">{{ n.title }}</a></li>
   {% endfor %}
 </ul>
-{% endfor %} -->
+{% endfor %}
