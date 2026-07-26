@@ -22,6 +22,9 @@
   entries:
     - title: "Evolving Brains"
       author: "John Allman"
+    - title: "Neuroscience Needs Behavior: Correcting a Reductionist Bias"
+      author: "John Krakauer, et al."
+      link: "https://pubmed.ncbi.nlm.nih.gov/28182904/"
     - title: "Principles of Neural Design"
       author: "Peter Sterling and Simon Laughlin"
     - title: "Principles of Neural Information Theory"
