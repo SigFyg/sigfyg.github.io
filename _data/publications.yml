@@ -1,0 +1,48 @@
+- title: "Inferring Neural Dynamics and Sensorimotor Tradeoffs from Closed-Loop Behaviors via Information Bottleneck"
+  authors: "<strong>J. Ting</strong>, J.S. Li"
+  status: "in preparation"
+
+- title: "Path Integral Bottleneck: An Algorithm-Agnostic Framework of Computation and Control"
+  authors: "<strong>J. Ting</strong>, J.S. Li"
+  status: "under review"
+
+- title: "Justifying bio-inspired robotics research: A taxonomy of strategies"
+  authors: "M. J. Zhang, <strong>J. Ting</strong>, T. Y. Moore"
+  venue: "Journal of Experimental Biology"
+  year: 2026
+  status: "under review"
+
+- title: "The Six Narratives: An Incremental Guide to Virtue in Engineering"
+  authors: "<strong>J. Ting</strong>, Y. Hassan"
+  venue: "Science and Engineering Ethics"
+  year: 2026
+  status: "in preparation"
+
+- title: "Two-Layer Attention Optimization for Bimanual Coordination"
+  authors: "<strong>J. Ting</strong>, J. S. Li"
+  venue: "American Control Conference"
+  year: 2025
+
+- title: "HiPER: Hierarchically-Composed Processing for Efficient Robot Learning-Based Control"
+  authors: "<strong>J. Ting</strong>, M. Kim, J. Zhang, H. Sheng, Z. Zhang"
+  venue: "International Symposium on Computer Architecture"
+  year: 2025
+
+- title: "Bio-inspired Gait Imitation of Hexapod Robot using Event-Based Vision Sensor and Spiking Neural Network"
+  authors: "<strong>J. Ting</strong>, Y. Fang, A.S. Lele, A. Raychowdhury"
+  venue: "IEEE World Congress on Computational Intelligence / International Joint Conference on Neural Networks, Glasgow"
+  year: 2020
+
+- title: "A 55nm time-domain mixed-signal neuromorphic accelerator with stochastic synapses and embedded reinforcement learning for autonomous micro-robots"
+  authors: "A. Amaravati, S.B. Nasir, <strong>J. Ting</strong>, I. Yoon, A. Raychowdhury"
+  venue: "IEEE Journal of Solid-State Circuits 2019 / IEEE Solid-State Circuits Conference, San Francisco 2018"
+
+- title: "Learning to Walk: Spike Based Reinforcement Learning for Hexapod Robot Central Pattern Generation"
+  authors: "A.S. Lele, Y. Fang, <strong>J. Ting</strong>, A. Raychowdhury"
+  venue: "IEEE Artificial Intelligence Circuits and Systems, Genoa"
+  year: 2020
+
+- title: "Smart Sensing for HVAC Control: Collaborative Intelligence in Optical and IR Cameras"
+  authors: "N. Cao, <strong>J. Ting</strong>, S. Sen, A. Raychowdhury"
+  venue: "IEEE Transactions on Industrial Electronics"
+  year: 2018
