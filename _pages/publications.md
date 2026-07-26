@@ -7,6 +7,13 @@ nav: true
 nav_order: 3
 ---
 
+{% comment %}
+<!-- {% include bib_search.liquid %}
+<div class="publications">
+{% bibliography %}
+</div> -->
+{% endcomment %}
+
 <ul>
 {% for pub in site.data.publications %}
   <li style="margin-bottom: 1rem;">
@@ -20,9 +27,6 @@ nav_order: 3
 {% endfor %}
 </ul>
 
-<!-- {% include bib_search.liquid %}
-<div class="publications">
-{% bibliography %}
-</div> -->
+
 
 
