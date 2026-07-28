@@ -9,7 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 ---
-<a href="https://www.linkedin.com/in/justin-ting-963a90b3/" target="_blank"><strong>LinkedIn</strong></a> | <a href="https://www.youtube.com/channel/UC7C2ikNDAMrRIAkfgVwm4Ug" target="_blank"><strong>Youtube</strong></a>
+
+<a href="https://www.linkedin.com/in/justin-ting-963a90b3/" target="_blank"><strong>LinkedIn</strong></a> 
+
+<a href="https://www.youtube.com/channel/UC7C2ikNDAMrRIAkfgVwm4Ug" target="_blank"><strong>Youtube</strong></a>
 
 Welcome! I'm Justin Ting, an Electrical Engineering PhD student at the University of Michigan, currently looking for postdoc positions. 
 
