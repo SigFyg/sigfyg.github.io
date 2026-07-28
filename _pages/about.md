@@ -2,7 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: sigfyg at umich dot edu
+subtitle: sigfyg at umich dot edu <a href="assets/pdf/Ting_Justin_CV_Schmidt.pdf" target="_blank"><strong>CV</strong></a>
+<a href="https://www.linkedin.com/in/justin-ting-963a90b3/" target="_blank"><strong>LinkedIn</strong></a>
+<a href="https://www.youtube.com/channel/UC7C2ikNDAMrRIAkfgVwm4Ug" target="_blank"><strong>Youtube</strong></a>
 
 profile:
   align: right
@@ -10,9 +12,7 @@ profile:
   image_circular: false # crops the image to make it circular
 ---
 
-Welcome! I'm Justin Ting, an Electrical Engineering PhD student at the University of Michigan, currently looking for postdoc positions. <a href="assets/pdf/Ting_Justin_CV_Schmidt.pdf" target="_blank"><strong>CV</strong></a>
-<a href="https://www.linkedin.com/in/justin-ting-963a90b3/" target="_blank"><strong>LinkedIn</strong></a>
-<a href="https://www.youtube.com/channel/UC7C2ikNDAMrRIAkfgVwm4Ug" target="_blank"><strong>Youtube</strong></a>
+Welcome! I'm Justin Ting, an Electrical Engineering PhD student at the University of Michigan, currently looking for postdoc positions. 
 
 
 **Research Background:**
