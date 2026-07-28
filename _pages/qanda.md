@@ -17,8 +17,6 @@ These tensions, which have been discussed in Complexity Science and commentary o
 
 <h3 style="margin-top: 2rem;">What is a Computer?</h3>
 
-<h3>What is a Computer?</h3>
-
 The following three scenarios illustrate perspectives on computation I find interesting and important, especially when considering what it means to observe computation naturally and physically.
 
 **Scenario #1:** Let's say someone asks me "What is $$\cos(0.85)$$?". Instead of using a calculator, I find a Trigonometry Look-Up Table in the form of a physical book and flip to the page with the correct answer. Have I done a "computation"? Consider how some signal processing chips actually use Look-Up Tables to compute trigonometry functions. Also consider how the constant speculation occurring in your CPU (e.g. caching, branch prediction, prefetching) is a softer version of using Look-Up Tables, all for the purpose of speeding up computation. Searching through the table is a computation, which relies on a past computation filling out the table's entries to save the effort of recomputing those entries in the future. More broadly, encoding patterns ahead of time, whether in software or hardware, can shrink time, space, or energy resources required for computation. All domain-specific accelerators are designed off of this principle.
