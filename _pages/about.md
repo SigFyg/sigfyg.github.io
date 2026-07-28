@@ -3,6 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: sigfyg at umich dot edu
+social: true # includes social icons at the bottom of the page
+---
 
 profile:
   align: right
@@ -28,7 +30,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <!-- selected_papers: true # includes a list of papers marked as "selected={true}"
 
-social: true # includes social icons at the bottom of the page
+
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
