@@ -2,9 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: sigfyg at umich dot edu <a href="assets/pdf/Ting_Justin_CV_Schmidt.pdf" target="_blank"><strong>CV</strong></a>
-<a href="https://www.linkedin.com/in/justin-ting-963a90b3/" target="_blank"><strong>LinkedIn</strong></a>
-<a href="https://www.youtube.com/channel/UC7C2ikNDAMrRIAkfgVwm4Ug" target="_blank"><strong>Youtube</strong></a>
+subtitle: >
+  sigfyg at umich dot edu |
+  <a href="/assets/pdf/Ting_Justin_CV_Schmidt.pdf" target="_blank"><strong>CV</strong></a> |
+  <a href="https://www.linkedin.com/in/justin-ting-963a90b3/" target="_blank"><strong>LinkedIn</strong></a> |
+  <a href="https://www.youtube.com/channel/UC7C2ikNDAMrRIAkfgVwm4Ug" target="_blank"><strong>Youtube</strong></a> |
 
 profile:
   align: right
