@@ -4,12 +4,13 @@ title: About
 permalink: /
 subtitle: sigfyg at umich dot edu
 social: true # includes social icons at the bottom of the page
----
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+
+---
 
 Welcome! I'm Justin Ting, an Electrical Engineering PhD student at the University of Michigan, currently looking for postdoc positions. CV
 
