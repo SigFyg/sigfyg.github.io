@@ -24,6 +24,7 @@
       author: "John Allman"
     - title: "Neuroscience Needs Behavior: Correcting a Reductionist Bias"
       author: "John Krakauer, et al."
+      type: paper
       link: "https://pubmed.ncbi.nlm.nih.gov/28182904/"
     - title: "Principles of Neural Design"
       author: "Peter Sterling and Simon Laughlin"
