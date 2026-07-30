@@ -13,7 +13,7 @@ profile:
 Welcome! I'm Justin Ting, an Electrical Engineering PhD student at the University of Michigan, currently looking for postdoc positions. 
 
 **Research Background (<a href="/assets/pdf/Ting_Justin_CV_Schmidt.pdf" target="_blank"><strong>CV</strong></a>):**
-- Control Theory and Neuroscience (Advisor: Jing Shuang (Lisa) Li, PhD 2024&ndash;2026)
+- Control Theory and Neuroscience (Advisor: Jing Shuang Li, PhD 2024&ndash;2026)
 - Computer Architecture and Robotics (Advisor: Zhengya Zhang, PhD 2021&ndash;2023)
 - Neuromorphic Computing (Advisor: Arijit Raychowdhury, B.S. 2017&ndash;2020)
 
